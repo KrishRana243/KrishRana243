@@ -11,9 +11,9 @@ Alongside my academic journey, I’m focused on preparing for the CAT exam with 
 
 ## 💡 What I’m Interested In:
   
-*📱 App Development (Flutter, Android Studio)
-*🌐 Web Design & Development (HTML, CSS, JavaScript, WordPress)
-*📈 Digital Marketing (SEO, Performance Marketing, Social Media Marketing)
-*👨‍💻 Coding (Python, JavaScript, C basics)
-*🎯 Competitive Exam Preparation (CAT Quant, VARC, DILR)
+* 📱 App Development (Flutter, Android Studio)
+* 🌐 Web Design & Development (HTML, CSS, JavaScript, WordPress)
+* 📈 Digital Marketing (SEO, Performance Marketing, Social Media Marketing)
+* 👨‍💻 Coding (Python, JavaScript, C basics)
+* 🎯 Competitive Exam Preparation (CAT Quant, VARC, DILR)
 
