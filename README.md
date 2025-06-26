@@ -4,6 +4,11 @@
 * 🎯 MBA Aspirant | Preparing for CAT
 * 💻 Passionate about Digital Marketing | Coding | Web Design | App Development
 
+## About Me
+I’m a self-driven learner with a strong passion for technology and marketing. Currently pursuing my BBA from GD Goenka University, I actively explore diverse fields like digital marketing, web development, and app development, while also strengthening my coding skills.
+
+Alongside my academic journey, I’m focused on preparing for the CAT exam with the goal of pursuing an MBA from a top B-School.
+
 **KrishRana243/KrishRana243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
