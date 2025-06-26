@@ -1,7 +1,9 @@
 ## Hi, I'm Krish Rana.👋
 
 🎓 BBA Student | GD Goenka University
+
 🎯 MBA Aspirant | Preparing for CAT
+
 💻 Passionate about Digital Marketing | Coding | Web Design | App Development
 
 🚀 About Me
