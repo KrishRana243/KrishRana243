@@ -2,7 +2,7 @@
 
 * 🎓 BBA Student | GD Goenka University
 * 🎯 MBA Aspirant | Preparing for CAT
-*💻 Passionate about Digital Marketing | Coding | Web Design | App Development
+* 💻 Passionate about Digital Marketing | Coding | Web Design | App Development
 
 **KrishRana243/KrishRana243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
