@@ -9,7 +9,7 @@ I’m a self-driven learner with a strong passion for technology and marketing. 
 
 Alongside my academic journey, I’m focused on preparing for the CAT exam with the goal of pursuing an MBA from a top B-School.
 
-## 💡 What I’m Interested In:
+## What I’m Interested In:
   
 * 📱 App Development (Flutter, React)
 * 🌐 Web Design & Development (HTML, CSS, JavaScript, WordPress)
