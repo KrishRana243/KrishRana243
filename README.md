@@ -1,8 +1,8 @@
 ## Hi, I'm Krish Rana.👋
 
-* 🎓 BBA Student | GD Goenka University
-* 🎯 MBA Aspirant | Preparing for CAT
-* 💻 Passionate about Digital Marketing | Coding | Web Design | App Development
+* BBA Student | GD Goenka University
+* MBA Aspirant | Preparing for CAT
+* Passionate about Digital Marketing | Coding | Web Design | App Development
 
 ## About Me
 I’m a self-driven learner with a strong passion for technology and marketing. Currently pursuing my BBA from GD Goenka University, I actively explore diverse fields like digital marketing, web development, and app development, while also strengthening my coding skills.
